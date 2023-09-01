@@ -1,0 +1,27 @@
+#about{
+    width:98vw;
+    
+}
+
+#loginform{
+    width: 50%;
+    height: 50vh;
+    text-align: center;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(231, 231, 234);
+    margin: 0 auto;
+    
+}
+#loginform input{
+    width: 50%;
+    height:30px;
+}
+#loginform .exist{
+    display: block;
+}
+#loginform .notexist{
+    display: none;
+}
